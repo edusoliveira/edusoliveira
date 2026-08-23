@@ -22,11 +22,10 @@
 
 ## Olá, me chamo Eduardo! 👋
 
-Desenvolvedor **.NET** em formação, apaixonado por construir coisas que funcionam de verdade — de APIs em C# a agentes de IA em produção. Hoje sou **Estagiário de IA na Influency.me**, onde crio automações e integrações com LLMs, e curso **Análise e Desenvolvimento de Sistemas** na Anhembi Morumbi.
+Engenheiro de Software **.NET** em formação, apaixonado por construir coisas que funcionam de verdade — de APIs em C# a agentes de IA em produção. Hoje sou **Estagiário de IA na Influency.me**, onde crio automações e integrações com LLMs, e curso **Análise e Desenvolvimento de Sistemas** na Anhembi Morumbi.
 
-🎯 **Objetivo:** me tornar Software Engineer numa fintech, unindo backend sólido em .NET com IA aplicada.
-📍 São Paulo, Brasil
-🌱 Estudando: arquitetura de software, sistemas distribuídos e boas práticas de engenharia.
+
+Estudando: arquitetura de software, sistemas distribuídos e boas práticas de engenharia.
 
 <div align="center">
 
