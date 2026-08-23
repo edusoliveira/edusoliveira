@@ -1,17 +1,7 @@
-<!--
-  ============================================================
-  GitHub Profile README de Eduardo (edusoliveira)
-  Para usar: crie um repositório chamado EXATAMENTE "edusoliveira"
-  e coloque este arquivo como README.md dentro dele.
-  Os comentários <!-- ... --> não aparecem renderizados — pode deixar.
-  ============================================================
--->
-
-![](https://capsule-render.vercel.app/api?type=rect&color=B30000&height=100&section=header&text=Eduardo%20Oliveira&fontColor=ffffff&fontSize=42)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8B0000,100:FF0000&height=200&section=header&text=Eduardo%20Oliveira&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Engenheiro%20de%20Software%20em%20formação%20%7C%20.NET%20%7C%20C%23%20%7C%20IA%20Aplicada&descSize=17&descAlignY=60&animation=twinkling)
 
 <div align="center">
 
-<!-- Link para versão em inglês (crie um README_EN.md depois) -->
 <a href="./README_EN.md">🇺🇸 English version</a>
 
 </div>
@@ -20,17 +10,16 @@
 
 ## Olá, me chamo Eduardo! 👋
 
-Software Engineer em formação, apaixonado por construir coisas que funcionam de verdade — de APIs em C# a agentes de IA em produção. Hoje sou **Estagiário de IA na Influency.me**, onde crio automações e integrações com LLMs, e curso **Análise e Desenvolvimento de Sistemas** na Anhembi Morumbi.
+Engenheiro de Software em formação, apaixonado por construir coisas que funcionam de verdade — de APIs em C# a agentes de IA em produção. Hoje sou **Estagiário de IA na Influency.me**, onde crio automações e integrações com LLMs, e curso **Análise e Desenvolvimento de Sistemas** na Anhembi Morumbi.
 
+
+📍 São Paulo, Brasil
 🌱 Estudando: arquitetura de software, sistemas distribuídos e boas práticas de engenharia.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-oliveira1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edusoliveira)
-<!-- Descomente e coloque seu e-mail se quiser:
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI)
--->
 
 </div>
 
@@ -79,13 +68,7 @@ Software Engineer em formação, apaixonado por construir coisas que funcionam d
 | Projeto | Proposta | Tech Stack |
 |---|---|---|
 | **[MiniBank](https://github.com/edusoliveira/MiniBank)** | API de conta digital construída do zero como estudo aprofundado de backend: contas, depósito, saque, transferência atômica e regras de negócio de um sistema financeiro. | `C#` `.NET` `PostgreSQL` |
-| <!-- ADICIONE MAIS AQUI --> *Em breve: próximos projetos do roadmap* | *Cada projeto resolve um problema real — auth, testes, mensageria, deploy.* | `...` |
-
-<!--
-  DICA: só liste projetos que existem e que você consegue explicar numa entrevista.
-  Um projeto bem descrito vale mais que cinco vazios.
-  Para cada projeto, capriche no README do próprio repo (o que é, como rodar, decisões técnicas).
--->
+| *Em breve* | *Próximos projetos do roadmap — auth, testes, mensageria, deploy.* | `...` |
 
 ---
 
@@ -103,6 +86,4 @@ Software Engineer em formação, apaixonado por construir coisas que funcionam d
 
 ---
 
-<div align="center">
-  <i>“Consistência de todo dia constrói o que intensidade de fim de semana não constrói.”</i>
-</div>
+![](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:1a0000&height=120&section=footer&animation=twinkling)
