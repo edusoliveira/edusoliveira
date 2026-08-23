@@ -7,9 +7,7 @@
   ============================================================
 -->
 
-<!-- BANNER (opcional): gera um cabeçalho bonito. Você pode trocar as cores/texto.
-     Se preferir uma imagem própria, suba um .png no repo e use ![](nome.png) -->
-![](https://capsule-render.vercel.app/api?type=waving&color=5D4EA0&height=180&section=header&text=Eduardo%20Oliveira&fontColor=ffffff&fontSize=42&desc=Desenvolvedor%20.NET%20%7C%20C%23%20%7C%20IA%20Aplicada&descSize=18&descAlignY=62)
+![](https://capsule-render.vercel.app/api?type=rect&color=B30000&height=100&section=header&text=Eduardo%20Oliveira&fontColor=ffffff&fontSize=42)
 
 <div align="center">
 
@@ -22,10 +20,9 @@
 
 ## Olá, me chamo Eduardo! 👋
 
-Engenheiro de Software **.NET** em formação, apaixonado por construir coisas que funcionam de verdade — de APIs em C# a agentes de IA em produção. Hoje sou **Estagiário de IA na Influency.me**, onde crio automações e integrações com LLMs, e curso **Análise e Desenvolvimento de Sistemas** na Anhembi Morumbi.
+Software Engineer em formação, apaixonado por construir coisas que funcionam de verdade — de APIs em C# a agentes de IA em produção. Hoje sou **Estagiário de IA na Influency.me**, onde crio automações e integrações com LLMs, e curso **Análise e Desenvolvimento de Sistemas** na Anhembi Morumbi.
 
-
-Estudando: arquitetura de software, sistemas distribuídos e boas práticas de engenharia.
+🌱 Estudando: arquitetura de software, sistemas distribuídos e boas práticas de engenharia.
 
 <div align="center">
 
