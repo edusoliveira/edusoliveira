@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Olá%2C+me+chamo+Eduardo!+👋;Engenheiro+de+Software;.NET+%7C+C%23+%7C+IA+Aplicada)](https://git.io/typing-svg)
 
-<a href="./README_EN.md">🇺🇸 English version</a>
-
 </div>
 
 ---
