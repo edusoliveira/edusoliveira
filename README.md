@@ -1,6 +1,8 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8B0000,100:FF0000&height=200&section=header&text=Eduardo%20Oliveira&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Engenheiro%20de%20Software%20em%20formação%20%7C%20.NET%20%7C%20C%23%20%7C%20IA%20Aplicada&descSize=17&descAlignY=60&animation=twinkling)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8B0000,100:FF0000&height=160&section=header&animation=twinkling)
 
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Olá%2C+me+chamo+Eduardo!+👋;Engenheiro+de+Software;.NET+%7C+C%23+%7C+IA+Aplicada)](https://git.io/typing-svg)
 
 <a href="./README_EN.md">🇺🇸 English version</a>
 
@@ -8,10 +10,7 @@
 
 ---
 
-## Olá, me chamo Eduardo! 👋
-
 Engenheiro de Software em formação, apaixonado por construir coisas que funcionam de verdade — de APIs em C# a agentes de IA em produção. Hoje sou **Estagiário de IA na Influency.me**, onde crio automações e integrações com LLMs, e curso **Análise e Desenvolvimento de Sistemas** na Anhembi Morumbi.
-
 
 📍 São Paulo, Brasil
 🌱 Estudando: arquitetura de software, sistemas distribuídos e boas práticas de engenharia.
@@ -29,35 +28,35 @@ Engenheiro de Software em formação, apaixonado por construir coisas que funcio
 
 <div align="center">
 
-**Backend**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Dados & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**IA & Automação**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs%20%2F%20Agentes%20%2F%20RAG-8E75B2?style=for-the-badge&logo=openai&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<table>
+  <tr>
+    <th>Backend</th>
+    <th>Ferramentas</th>
+    <th>Frontend</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" title="C#"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" title=".NET"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=docker" width="48" title="Docker"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" title="Supabase"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="48" title="Git"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="48" title="Visual Studio"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" title="Angular"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -72,15 +71,13 @@ Engenheiro de Software em formação, apaixonado por construir coisas que funcio
 
 ---
 
-## 📊 GitHub em números
+## GitHub em números
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=edusoliveira&show_icons=true&theme=radical&hide_border=true&count_private=true)
+[![Streak](https://streak-stats.demolab.com/?user=edusoliveira&theme=radical&hide_border=true)](https://github.com/edusoliveira)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edusoliveira&layout=compact&theme=radical&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com/?user=edusoliveira&theme=radical&hide_border=true)
+![Contribuições](https://ghchart.rshah.org/FF0000/edusoliveira)
 
 </div>
 
