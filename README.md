@@ -86,7 +86,6 @@ O que eu construí e mantenho no meu estágio — sistemas reais, usados por pes
 | Projeto | Proposta | Tech Stack |
 |---|---|---|
 | **[MiniBank](https://github.com/edusoliveira/MiniBank)** | Núcleo de um banco digital construído do zero, em fases: hoje um app de console com contas, depósito, saque e saldo; caminhando para uma API REST com persistência, autenticação e testes. | `C#` `.NET` |
-| **[Jogo de Adivinhação](https://github.com/edusoliveira/JogoAdivinhacao)** | Jogo de console para praticar lógica, laços e validação de entrada. | `C#` `.NET` |
 | *Em breve* | *Agente de atendimento multiagente com suíte de avaliação automatizada (evals) rodando no CI.* | `Python` `FastAPI` `LangGraph` |
 
 ---
