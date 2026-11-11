@@ -85,7 +85,7 @@ O que eu construí e mantenho no meu estágio — sistemas reais, usados por pes
 
 | Projeto | Proposta | Tech Stack |
 |---|---|---|
-| **[MiniBank](https://github.com/edusoliveira/MiniBank)** | Núcleo de um banco digital construído do zero, em fases: hoje um app de console com contas, depósito, saque e saldo; caminhando para uma API REST com persistência, autenticação e testes. | `C#` `.NET` |
+| **[Cofre](https://github.com/edusoliveira/cofre)** | App Android de controle financeiro pessoal: contas recorrentes, entradas e saldo do mês, 100% offline (nenhum dado sai do aparelho). APK disponível em [Releases](https://github.com/edusoliveira/cofre/releases). | `Kotlin` `Jetpack Compose` `Room` |
 | *Em breve* | *Agente de atendimento multiagente com suíte de avaliação automatizada (evals) rodando no CI.* | `Python` `FastAPI` `LangGraph` |
 
 ---
