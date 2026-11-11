@@ -10,8 +10,8 @@
 
 Engenheiro de Software em formação, apaixonado por construir coisas que funcionam de verdade — de APIs em C# a agentes de IA em produção. Hoje sou **Estagiário de IA na Influency.me**, onde crio agentes, automações e ferramentas internas com LLMs que são usadas todos os dias pelos times. Curso **Engenharia de Software** na UNINTER.
 
-📍 Osasco, SP — Brasil
-🤖 Foco: IA aplicada — agentes, automações e avaliação de LLMs em produção
+📍 Osasco, SP — Brasil<br/>
+🤖 Foco: IA aplicada — agentes, automações e avaliação de LLMs em produção<br/>
 🌱 Estudando: Python para IA, arquitetura de software e boas práticas de engenharia
 
 <div align="center">
