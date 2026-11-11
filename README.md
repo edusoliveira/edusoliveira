@@ -8,7 +8,7 @@
 
 ---
 
-Engenheiro de Software em formação, apaixonado por construir coisas que funcionam de verdade — de APIs em C# a agentes de IA em produção. Hoje sou **Estagiário de IA na Influency.me**, onde crio automações e integrações com LLMs, e curso **Análise e Desenvolvimento de Sistemas** na Anhembi Morumbi.
+Engenheiro de Software em formação, apaixonado por construir coisas que funcionam de verdade — de APIs em C# a agentes de IA em produção. Hoje sou **Estagiário de IA na Influency.me**, onde crio automações e integrações com LLMs, e curso **Engenharia de Software** na UNINTER.
 
 📍 São Paulo, Brasil
 🌱 Estudando: arquitetura de software, sistemas distribuídos e boas práticas de engenharia.
