@@ -33,6 +33,35 @@ O que eu construí e mantenho no meu estágio — sistemas reais, usados por pes
 | **Agente de triagem de e-mails** | Lê a caixa de entrada do time, classifica cada e-mail com LLM, remove duplicados e distribui as demandas entre as pessoas responsáveis, alimentando um dashboard | Calibrado com **~3.600 e-mails reais** e validado com uma **suíte de 100 cenários de teste** | `n8n` `Gemini` `Google Sheets` |
 | **Gerador de briefings com IA** | O time sobe os documentos da campanha e o sistema gera páginas de briefing personalizadas para cada influenciador, com identidade da marca e acesso por link único | Em uso pelo time de produção de campanhas | `ASP.NET Core` `Angular` `Gemini` `PostgreSQL` |
 
+### 📸 Sistema de votação — telas reais
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="assets/vote-award/viagem-e-turismo.jpg" width="420" alt="Categoria Viagem e Turismo"/></td>
+    <td><img src="assets/vote-award/educacao-e-conhecimento.jpg" width="420" alt="Categoria Educação e Conhecimento"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/vote-award/arte-e-cultura.jpg" width="420" alt="Categoria Arte e Cultura"/></td>
+    <td><img src="assets/vote-award/lifestyle.jpg" width="420" alt="Categoria Lifestyle"/></td>
+  </tr>
+</table>
+
+<sub>Fluxo de votação por categoria: patrocinador, finalistas e confirmação de voto — <a href="https://vote.influency.me">vote.influency.me</a></sub>
+
+</div>
+
+### 📸 Agente de triagem de e-mails — fluxo no n8n
+
+<div align="center">
+
+<img src="assets/email-agent/fluxo-n8n.jpg" width="860" alt="Fluxo do agente de triagem de e-mails no n8n"/>
+
+<sub>Três fluxos: triagem em tempo real (Gmail Trigger → classificação com LLM → insert/update de oportunidades), varredura agendada da caixa de entrada e rotina que marca oportunidades como "Perdido em Negociação"</sub>
+
+</div>
+
 > 🔒 Os códigos são privados da empresa — versões anonimizadas e estudos de caso estão a caminho.
 
 ---
